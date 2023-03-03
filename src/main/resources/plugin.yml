@@ -1,0 +1,5 @@
+name: AnimatedItemPlayground
+version: 0.1
+author: BlvckBytes
+main: me.blvckbytes.animateditemplayground.AnimatedItemPlayground
+api-version: 1.13
